@@ -1,5 +1,6 @@
 # Creating a Spotify Playlist
-By Elijah Beverley – March 14, 2025
+By Elijah Beverley 
+March 14, 2025
 
 I enjoy different genres of music from around the world and use Spotify to organize my favorite songs. Spotify is a digital music, podcast, and video service that offers access to millions of songs and other content from creators worldwide. WIth Spotify, I strive to create playlists that best suit my style.
 
