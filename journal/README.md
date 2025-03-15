@@ -4,7 +4,7 @@ March 14, 2025
 
 I enjoy different genres of music from around the world and use Spotify to organize my favorite songs. Spotify is a digital music, podcast, and video service that offers access to millions of songs and other content from creators worldwide. WIth Spotify, I strive to create playlists that best suit my style.
 
-![change-order-of-songs-in-spotify-playlist-desktop](https://github.com/user-attachments/assets/a57a0acd-0314-4deb-839c-846ff17935b4)
+![Screenshot 2025-03-14 230838](https://github.com/user-attachments/assets/26a8362d-a51b-42c5-8c29-f12f90c8b0b7)
 
 A **key affordance when creating a playlist in Spotify is the ability to quickly access and add songs throughout the app**. Whether I was searching through my "Liked Songs," different albums, or recommendations, Spotify makes it easy for me to add songs to my playlist. The ellipsis menu provides an “Add to Playlist” option, signaling that I can place a song in a created playlist. On my laptop, there's a drag-and-drop feature that allowed me to reorder songs, directly signaling me to make changes that I felt most comfortable with. This was contrary to the mobile app, which lacked a drag-and-drop feature. I initially struggled on the app with pressing shuffle before going through the menu and queuing songs. **The mobile app requires extra steps for reordering songs, making the experience less flexible**. To improve the mobile app experience, **implementing swipe gestures or a faster way to organize songs without entering edit mode would be more effective**. 
 
