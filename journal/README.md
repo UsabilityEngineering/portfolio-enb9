@@ -1,22 +1,18 @@
 # Creating a Spotify Playlist
 I use Spotify to organize the music that I enjoy listening to. Spotify is a digital music, podcast, and video service that offers access to millions of songs and other content from creators worldwide. Given the wide variety of genres, I created a specific playlist to organize my favorite songs.
 
-![Screenshot_5-33](https://github.com/user-attachments/assets/d6128388-edb5-4376-9339-ea3cb5ae7db2)
+![change-order-of-songs-in-spotify-playlist-desktop](https://github.com/user-attachments/assets/a57a0acd-0314-4deb-839c-846ff17935b4)
 
 
 A **key affordance when creating a playlist in Spotify is the ability to quickly access and add songs throughout the app**. Whether I was searching through my "Liked Songs," different albums, or recommendations, Spotify makes it easy for me to add songs to my playlist. The ellipsis menu provides an “Add to Playlist” option, signaling that I can place a song in a created playlist. On my laptop, there's a drag-and-drop feature that allowed me to reorder songs, directly signaling me to make changes that I felt most comfortable with. This was contrary to the mobile app, which lacked a drag-and-drop feature. I initially struggled on the app with pressing shuffle before going through the menu and queuing songs. **The mobile app requires extra steps for reordering songs, making the experience less flexible**. To improve the mobile app experience, **implementing swipe gestures or a faster way to organize songs without entering edit mode would be more effective**. 
 
-
-![change-order-of-songs-in-spotify-playlist-desktop](https://github.com/user-attachments/assets/a57a0acd-0314-4deb-839c-846ff17935b4)
+![Screenshot 2025-03-14 224227](https://github.com/user-attachments/assets/37558505-18a8-458d-877a-c9cb5bc74ca1)
 
 
 Spotify's **visual mapping** for the playlist was learnable. The design provides _cues, with songs ordered from top to bottom to reflect the sequence in which they will be played_. **Universal icons like the "+" symbol for adding songs and a trash bin for deletion** helped me grasp available actions without needing additional explanation. As I went through my playlist, it was evident that Spotify lacks feedback for duplicate songs. While reviewing my playlist, I noticed the same song appeared multiple times, which was frustrating, given the effort I put into organizing it. **Allowing duplicate songs without warning is an example of poor error prevention.** A subtle warning or visual cue would have helped prevent this redundancy.
 
 
- ![MOVE1](https://github.com/user-attachments/assets/b47e6378-0acc-49fd-86ef-4fc5d49fa54a)
-
-
-
+![Screenshot 2025-03-14 224557](https://github.com/user-attachments/assets/72e46dd7-ae1b-4ca8-bdbf-fe1c9700edf4)
 
 
 
