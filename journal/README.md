@@ -16,8 +16,9 @@ Spotify's **visual mapping** for the playlist was learnable. The design provides
 
 
 
-(https://github.com/user-attachments/assets/5f9c912a-81ad-4e3d-a6dc-73a624d020b7)
 
+
+![Screenshot 2025-03-14 231233](https://github.com/user-attachments/assets/6d4e4349-7d8e-475b-97fe-92dd0e4ec74c)
 
 
 
