@@ -1,5 +1,7 @@
 # Creating a Spotify Playlist
-I use Spotify to organize the music that I enjoy listening to. Spotify is a digital music, podcast, and video service that offers access to millions of songs and other content from creators worldwide.
+By Elijah Beverley – March 14, 2025
+
+I enjoy different genres of music from around the world and use Spotify to organize my favorite songs. Spotify is a digital music, podcast, and video service that offers access to millions of songs and other content from creators worldwide. WIth Spotify, I strive to create playlists that best suit my style.
 
 ![change-order-of-songs-in-spotify-playlist-desktop](https://github.com/user-attachments/assets/a57a0acd-0314-4deb-839c-846ff17935b4)
 
@@ -18,8 +20,6 @@ Spotify's **visual mapping** for the playlist was learnable. The design provides
 
 
 
-As I continued fine-tuning my playlist, I mistakenly removed a song I wanted to keep. Instead of using an "undo" option to restore a deleted song, I had to search for it again manually—a tedious process, especially since I had already forgotten its title. _The lack of an "undo" option after removing a song made me feel like I had less control over my playlist,_ which added to the frustration. My **conceptual model** of deleting songs or podcasts has been shaped through my experiences with other music platforms. I expected there to be an easier way to remove duplicated songs and add songs that were deleted by accident. While the overall process of building a playlist was functional, these small inconsistencies added friction, revealing areas where the platform could better align with user expectations.
-
-
+As I continued fine-tuning my playlist, I mistakenly removed a song I wanted to keep. Instead of using an "undo" option to restore a deleted song, I had to search for it again manually—a tedious process, especially since I had already forgotten its title. _The lack of an "undo" option after removing a song made me feel like I had less control over my playlist,_ which added to the frustration. My **conceptual model** of deleting songs or podcasts has been shaped through my experiences with other music platforms. I expected there to be an easier way to remove duplicated songs and add songs that were deleted by accident.
 
 
