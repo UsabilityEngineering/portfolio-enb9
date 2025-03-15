@@ -12,7 +12,10 @@ A **key affordance when creating a playlist in Spotify is the ability to quickly
 Spotify's **visual mapping** for the playlist was learnable. The design provides _cues, with songs ordered from top to bottom to reflect the sequence in which they will be played_. **Universal icons like the "+" symbol for adding songs and a trash bin for deletion** helped me grasp available actions without needing additional explanation. As I went through my playlist, it was evident that Spotify lacks feedback for duplicate songs. While reviewing my playlist, I noticed the same song appeared multiple times, which was frustrating, given the effort I put into organizing it. **Allowing duplicate songs without warning is an example of poor error prevention.** A subtle warning or visual cue would have helped prevent this redundancy.
 
 
-![Screenshot 2025-03-14 224557](https://github.com/user-attachments/assets/72e46dd7-ae1b-4ca8-bdbf-fe1c9700edf4)
+
+
+(https://github.com/user-attachments/assets/5f9c912a-81ad-4e3d-a6dc-73a624d020b7)
+
 
 
 
